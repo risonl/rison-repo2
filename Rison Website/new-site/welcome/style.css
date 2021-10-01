@@ -1,0 +1,25 @@
+body {
+    background-color: #1C5253;
+}
+a:link {
+    color: black;
+    text-decoration: none;
+}
+a:visited {
+    color: black;
+    text-decoration: none;
+}
+h1 {
+    font-family: "Lora";
+    font-size: 144px;
+    line-height: 184px;
+}
+.box {
+margin-right: auto;
+margin-left: auto;
+width: 781px;
+height: 195px;
+left: 337px;
+top: 323px;
+background-color: #F1C8DD
+}

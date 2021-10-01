@@ -1,0 +1,23 @@
+:root {
+    --bs-primary: #f1c8dd;
+    --bs-primary-rgb: 241, 200, 221;
+    --bs-secondary: #1c5253;
+    --bs-secondary-rgb: 28, 82, 83;
+    /* --nav-link-active: #f1c8dd;
+    --nav-link: #f1c8dd; */
+}
+p {
+    font-family: "Lato";
+}
+h1 {
+    font-family: "Lora";
+}
+h2 {
+    font-family: "Lora";
+}
+h3 {
+    font-family: "Lora";
+}
+body {
+    background-color: #E9DFDC;
+}
